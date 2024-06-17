@@ -1,11 +1,11 @@
 {
-  "name": "tamayo/laravel-scout-elastic",
+  "name": "manojkiyan/laravel-scout-elastic",
   "description": "Elastic Driver for Laravel Scout",
   "license": "MIT",
   "authors": [
     {
-      "name": "Erick Tamayo",
-      "email": "ericktamayo@gmail.com"
+      "name": "Manoj Kiyan",
+      "email": "manojkiyan@wwe.com"
     }
   ],
   "keywords": [
@@ -28,13 +28,13 @@
   },
   "autoload": {
     "psr-4": {
-      "Tamayo\\LaravelScoutElastic\\": "src/"
+      "Manojkiyan\\LaravelScoutElastic\\": "src/"
     }
   },
   "extra": {
     "laravel": {
       "providers": [
-        "Tamayo\\LaravelScoutElastic\\LaravelScoutElasticProvider"
+        "Manojkiyan\\LaravelScoutElastic\\LaravelScoutElasticProvider"
       ]
     }
   },
